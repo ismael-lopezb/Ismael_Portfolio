@@ -1,4 +1,4 @@
-# Ismael_Portfolio
+# Ismael Lopez Portfolio
 Data science portfolio
 # [**Project 1:** Apartment Price Estimator Project Overview](https://github.com/ismael-lopezb/ds_realestate_proj)
 * Created a tool that estimates apartment price in Mexico City to help construction companies estimate the potential price of their apartments.
