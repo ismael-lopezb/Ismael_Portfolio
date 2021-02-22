@@ -6,3 +6,4 @@ Data science portfolio
 * Engineered features from the text of each apartment description to quantify the value of amenities, such as pool, garden, etc.
 * Optimized Linear, Ridge, and Gradient Boosting Regressor using GridsearchCV to reach the best model.
 <img src="/images/pricepd.png" width="400" height="400" > <img src="/images/heatmap.jpg" width="400" height="400" >
+![](/images/pricepd.png =400x400)
