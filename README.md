@@ -5,5 +5,4 @@ Data science portfolio
 * Scraped over 25,000 apartment descriptions from Inmueble24 using python and BeautifulSoup
 * Engineered features from the text of each apartment description to quantify the value of amenities, such as pool, garden, etc.
 * Optimized Linear, Ridge, and Gradient Boosting Regressor using GridsearchCV to reach the best model.
-<img src="https://github.com/ismael-lopezb/Ismael_Portfolio/blob/main/images/pricepd.png" width="200" height="200" >
-<img src="https://github.com/ismael-lopezb/Ismael_Portfolio/blob/main/images/heatmap.jpg" width="200" height="200" >
+<img src="https://github.com/ismael-lopezb/Ismael_Portfolio/blob/main/images/pricepd.png" width="400" height="400" > <img src="https://github.com/ismael-lopezb/Ismael_Portfolio/blob/main/images/heatmap.jpg" width="400" height="400" >
