@@ -11,3 +11,5 @@ Data science portfolio
 * Cleaned over 20,000 data extracted from Kaggle.
 * Performed an exploratory data analysis (EDA) and extracted valuable information from the data.
 * Optimized Logistic Regression, K-Nearest Neighbours, Decission-Tree Classifier and Random Forest Classifier using GridsearchCV to reach the best model.
+<img src="./images/experience.png"/> 
+<img src="./images/categories.png"/>
